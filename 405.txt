@@ -1,0 +1,16 @@
+node --version (check node n update)
+
+- at Vscode install
+sublime babel (babel javascript)
+vscode-icons
+
+npx create-react-app my-app
+cd /c/Users/User/my-app
+（find file n Open)
+
+npm start
+
+*allow acess
+
+https://codesandbox.io/
+(if download zip ,npm install and npm start run to localhost)
